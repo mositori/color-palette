@@ -1,0 +1,14 @@
+{
+  "name": "color-palette",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mositori/color-palette.git",
+  "author": "Keisuke Shimotori",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
