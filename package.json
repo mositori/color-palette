@@ -1,5 +1,5 @@
 {
-  "name": "color-palette",
+  "name": "@frosted-bird/color-palette",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:mositori/color-palette.git",
