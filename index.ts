@@ -1,4 +1,4 @@
-const Mono = {
+export const Mono = {
     Mono50: "#222222",  // 34
     Mono100: "#2E2E2E", // 46
     Mono200: "#484848", // 72
@@ -10,5 +10,3 @@ const Mono = {
     Mono800: "#E2E2E2", // 229
     Mono900: "#FFFFFF"  // 255
 } as const
-
-export default Mono
