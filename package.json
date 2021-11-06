@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "start": "tsc"
+    "postinstall": "tsc"
   },
   "devDependencies": {
     "typescript": "^4.4.4"
