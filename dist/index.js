@@ -1,29 +1,42 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.Yellow = exports.Orange = exports.Green = exports.Red = exports.Mono = void 0;
+exports.Yellow = exports.Orange = exports.Green = exports.Blue = exports.Red = exports.Mono = void 0;
 exports.Mono = {
-    Mono50: "#F4F4F4",
-    Mono100: "#E8E8E8",
-    Mono200: "#D2D2D2",
-    Mono300: "#BBBBBB",
-    Mono400: "#A5A5A5",
-    Mono500: "#8F8F8F",
-    Mono600: "#797979",
-    Mono700: "#626262",
-    Mono800: "#4C4C4C",
-    Mono900: "#353535",
-    Mono1000: "#1F1F1F"
+    Mono50: "#fafafa",
+    Mono100: "#f5f5f5",
+    Mono200: "#e5e5e5",
+    Mono300: "#d4d4d4",
+    Mono400: "#a3a3a3",
+    Mono500: "#737373",
+    Mono600: "#525252",
+    Mono700: "#404040",
+    Mono800: "#262626",
+    Mono900: "#171717",
+    Mono1000: "#101010",
 };
 exports.Red = {
-    Red50: "#FBEFEE",
-    Red100: "#F8DFDD",
-    Red200: "#F0BEBB",
-    Red300: "#E99E99",
-    Red400: "#E27E77",
-    Red500: "#DA5D55",
-    Red600: "#D1352A",
-    Red700: "#B6281D",
-    Red800: "#A51107",
+    Red50: "#fef2f2",
+    Red100: "#fee2e2",
+    Red200: "#fecaca",
+    Red300: "#fca5a5",
+    Red400: "#f87171",
+    Red500: "#ef4444",
+    Red600: "#dc2626",
+    Red700: "#b91c1c",
+    Red800: "#991b1b",
+    Red900: "#7f1d1d"
+};
+exports.Blue = {
+    Blue50: "#eff6ff",
+    Blue100: "#dbeafe",
+    Blue200: "#bfdbfe",
+    Blue300: "#93c5fd",
+    Blue400: "#60a5fa",
+    Blue500: "#3b82f6",
+    Blue600: "#2563eb",
+    Blue700: "#1d4ed8",
+    Blue800: "#1e40af",
+    Blue900: "#1e3a8a"
 };
 exports.Green = {
     Green50: "#EBF7F2",
