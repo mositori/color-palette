@@ -73,3 +73,17 @@ export const Yellow = {
   Yellow700: "#D79000",
   Yellow800: "#AE7400",
 } as const;
+
+
+/**
+ * 興奮と昂揚をアナタに。
+ */
+export const AnthV1 = {
+  Red: "#b16b69",
+  LightBlue: "#a8d3ed",
+  Blue: "#7d8fb1",
+  Yellow: "#e3e68c",
+  LimeGreen: "#a3e0ad",
+  Purple: "#bb84d5",
+  Pink: "#e28fd1",
+} as const
